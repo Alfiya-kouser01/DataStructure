@@ -1,5 +1,6 @@
+package Sorting;
 
-    import java.util.*;
+import java.util.*;
 
     public class quickSorT {
 

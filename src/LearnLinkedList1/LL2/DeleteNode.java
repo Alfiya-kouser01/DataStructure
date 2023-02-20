@@ -1,4 +1,4 @@
-package LL2;
+package LearnLinkedList1.LL2;
 
 //{ Driver Code Starts
 

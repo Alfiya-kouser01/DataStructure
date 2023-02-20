@@ -1,6 +1,5 @@
-package LoopInDLL;
+package LearnLinkedList1.LoopInDLL;
 
-import java.util.*;
 class Node {
     int num;
     Node next;

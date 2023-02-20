@@ -1,6 +1,6 @@
-package DoublyLinkedlist;
+package LearnLinkedList1.DoublyLinkedlist;
 
-import static DoublyLinkedlist.Insertion.*;
+import static LearnLinkedList1.DoublyLinkedlist.Insertion.*;
 
 public class Main {
     public static void main(String[] args) {

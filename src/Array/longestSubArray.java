@@ -1,3 +1,5 @@
+package Array;
+
 public class longestSubArray {
     public static void main(String[] args) {
         int []arr={7,1,6,0};

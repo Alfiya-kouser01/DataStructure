@@ -1,4 +1,4 @@
-package insertionOfDLL;
+package LearnLinkedList1.DoublyLinkedlist.insertionOfDLL;
 
     //{ Driver Code Starts
 import java.util.*;

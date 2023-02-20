@@ -1,7 +1,6 @@
-package FlatteningALinkedList;
+package LearnLinkedList1.DoublyLinkedlist.FlatteningALinkedList;
 import java.util.Scanner;
-import java.util.*;
-import java.io.*;
+
 class Node
 {
     int data;

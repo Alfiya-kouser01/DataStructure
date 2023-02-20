@@ -1,6 +1,4 @@
-package DoublyLinkedlist;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package LearnLinkedList1.DoublyLinkedlist;
 
 public class Insertion {
     static Node head = null;
