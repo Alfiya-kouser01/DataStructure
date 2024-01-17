@@ -9,7 +9,7 @@ public class FIndFrequency {
         frequency(arr,n);
     }
     static void frequency(int arr[],int n){
-        HashMap<Integer,Integer> fun = new HashMap<Integer,Integer>();
+            HashMap<Integer,Integer> fun = new HashMap<Integer,Integer>();
         for(int i=0;i<n;i++){
             if(fun.containsKey(arr[i])){
                 fun.put(arr[i],fun.get(arr[i]+1));
